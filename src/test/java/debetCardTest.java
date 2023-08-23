@@ -81,7 +81,7 @@ public class debetCardTest {
     @Test
     void shouldTestUncheckedCheckbox() {
         driver.findElement(By.cssSelector("[data-test-id='name'] input")).sendKeys("Казакова Наталья");
-        driver.findElement(By.cssSelector("[data-test-id='phone'] input")).sendKeys("+1234123456");
+        driver.findElement(By.cssSelector("[data-test-id='phone'] input")).sendKeys("+12345678965");
         driver.findElement(By.cssSelector("button.button")).click();
         assertTrue(driver.findElement(By.cssSelector("[data-test-id='agreement'].input_invalid")).isDisplayed());
     }
