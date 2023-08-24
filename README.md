@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/0j4jlb2dfuuxy4wv?svg=true)](https://ci.appveyor.com/project/Natali/hw-2-1-web-interface-testing)
+[![Build status](https://git@github.com/<natalikazakova87>/<HW-2.1-web-interface-testing.git>/actions/workflows/<WORKFLOW_FILE>/badge.svg)
